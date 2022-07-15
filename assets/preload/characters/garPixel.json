@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Garfield_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Garfield_Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Garfield_Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Garfield_DownMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				1
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Garfield_UpMiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Garfield_Right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Garfield_Left0"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Garfield_RightMiss"
+		},
+		{
+			"offsets": [
+				-28,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Garfield_LeftMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lasagakity_assets",
+	"position": [
+		100,
+		430
+	],
+	"healthicon": "garpixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		116,
+		0
+	],
+	"camera_position": [
+		-20,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

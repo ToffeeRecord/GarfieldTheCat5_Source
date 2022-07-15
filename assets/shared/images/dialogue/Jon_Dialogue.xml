@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jon_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jon idle angry0000" x="5" y="5" width="277" height="492" frameX="0" frameY="-37" frameWidth="277" frameHeight="530"/>
+	<SubTexture name="jon idle angry0001" x="5" y="5" width="277" height="492" frameX="0" frameY="-37" frameWidth="277" frameHeight="530"/>
+	<SubTexture name="jon idle angry0002" x="287" y="5" width="256" height="513" frameX="-14" frameY="-16" frameWidth="277" frameHeight="530"/>
+	<SubTexture name="jon idle angry0003" x="287" y="5" width="256" height="513" frameX="-14" frameY="-16" frameWidth="277" frameHeight="530"/>
+	<SubTexture name="jon idle angry0004" x="5" y="540" width="242" height="530" frameX="-25" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="jon idle angry0005" x="5" y="540" width="242" height="530" frameX="-25" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="jon idle normal0000" x="548" y="5" width="238" height="518" frameX="-15" frameY="-12" frameWidth="253" frameHeight="530"/>
+	<SubTexture name="jon idle normal0001" x="548" y="5" width="238" height="518" frameX="-15" frameY="-12" frameWidth="253" frameHeight="530"/>
+	<SubTexture name="jon idle normal0002" x="791" y="5" width="242" height="524" frameX="-6" frameY="-6" frameWidth="253" frameHeight="530"/>
+	<SubTexture name="jon idle normal0003" x="791" y="5" width="242" height="524" frameX="-6" frameY="-6" frameWidth="253" frameHeight="530"/>
+	<SubTexture name="jon idle normal0004" x="1038" y="5" width="242" height="530" frameX="0" frameY="0" frameWidth="253" frameHeight="530"/>
+	<SubTexture name="jon idle normal0005" x="1038" y="5" width="242" height="530" frameX="0" frameY="0" frameWidth="253" frameHeight="530"/>
+	<SubTexture name="jon talk angry0000" x="1285" y="5" width="333" height="530"/>
+	<SubTexture name="jon talk angry0001" x="1285" y="5" width="333" height="530"/>
+	<SubTexture name="jon talk angry0002" x="1623" y="5" width="289" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="jon talk angry0003" x="1623" y="5" width="289" height="530" frameX="-16" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="jon talk angry0004" x="5" y="540" width="242" height="530" frameX="-31" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="jon talk angry0005" x="5" y="540" width="242" height="530" frameX="-31" frameY="0" frameWidth="333" frameHeight="530"/>
+	<SubTexture name="jon talk normal0000" x="252" y="540" width="273" height="550"/>
+	<SubTexture name="jon talk normal0001" x="252" y="540" width="273" height="550"/>
+	<SubTexture name="jon talk normal0002" x="530" y="540" width="250" height="539" frameX="-11" frameY="-11" frameWidth="273" frameHeight="550"/>
+	<SubTexture name="jon talk normal0003" x="530" y="540" width="250" height="539" frameX="-11" frameY="-11" frameWidth="273" frameHeight="550"/>
+	<SubTexture name="jon talk normal0004" x="785" y="540" width="242" height="530" frameX="-20" frameY="-19" frameWidth="273" frameHeight="550"/>
+	<SubTexture name="jon talk normal0005" x="785" y="540" width="242" height="530" frameX="-20" frameY="-19" frameWidth="273" frameHeight="550"/>
+</TextureAtlas>

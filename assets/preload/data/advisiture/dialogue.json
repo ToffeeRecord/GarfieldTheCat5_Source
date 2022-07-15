@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Garfield! Where in the world have you been?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, nothing special..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just went through a big ol' adventure..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, an adventure? Do tell me about it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It was quite a journey, let me tell ya..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Went through some goofy ahh renditions of Sonic's stages..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then went to geometric shapes land..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then onto a roller-coaster of some kind before going into the middle of nowhere..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Had to face off against an unhinged version of Nermal..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Before going downtown and finally back here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's... quite a long story..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And by the smell of things, you probably need a bath by now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...a what now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A bath, you know, to clean yourself..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO PLEASE NO DON'T GET ME IN THAT GOSH DARN TORTURE CHAMBER YOU CALL A BATHTUB!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "...seems you want to disobey me, eh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "*inhale... exhale...*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about this... if you win, you don't have to take a bath, and vice versa."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Sounds dope to me."
+		}
+	]
+}

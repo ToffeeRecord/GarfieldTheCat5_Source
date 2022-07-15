@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Garfield_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garfield idle0000" x="5" y="5" width="188" height="286" frameX="0" frameY="-18" frameWidth="197" frameHeight="305"/>
+	<SubTexture name="garfield idle0001" x="5" y="5" width="188" height="286" frameX="0" frameY="-18" frameWidth="197" frameHeight="305"/>
+	<SubTexture name="garfield idle0002" x="198" y="5" width="192" height="299" frameX="-2" frameY="-5" frameWidth="197" frameHeight="305"/>
+	<SubTexture name="garfield idle0003" x="198" y="5" width="192" height="299" frameX="-2" frameY="-5" frameWidth="197" frameHeight="305"/>
+	<SubTexture name="garfield idle0004" x="804" y="5" width="194" height="305" frameX="-3" frameY="0" frameWidth="203" frameHeight="339"/>
+	<SubTexture name="garfield idle0005" x="804" y="5" width="194" height="305" frameX="-3" frameY="0" frameWidth="203" frameHeight="339"/>
+	<SubTexture name="garfield speech0000" x="395" y="5" width="203" height="339"/>
+	<SubTexture name="garfield speech0001" x="395" y="5" width="203" height="339"/>
+	<SubTexture name="garfield speech0002" x="603" y="5" width="196" height="323" frameX="-5" frameY="-14" frameWidth="203" frameHeight="339"/>
+	<SubTexture name="garfield speech0003" x="603" y="5" width="196" height="323" frameX="-5" frameY="-14" frameWidth="203" frameHeight="339"/>
+	<SubTexture name="garfield speech0004" x="804" y="5" width="194" height="305" frameX="-5" frameY="-29" frameWidth="203" frameHeight="339"/>
+	<SubTexture name="garfield speech0005" x="804" y="5" width="194" height="305" frameX="-5" frameY="-29" frameWidth="203" frameHeight="339"/>
+</TextureAtlas>

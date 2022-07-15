@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"Improbable-Outset",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Madness",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Time for a Bath",
+	"weekName": "Week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

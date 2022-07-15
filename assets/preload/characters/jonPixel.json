@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SuperUltraHD4kQualityJon_Idle"
+		},
+		{
+			"offsets": [
+				75,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SuperUltraHD4kQualityJon_Left"
+		},
+		{
+			"offsets": [
+				-95,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SuperUltraHD4kQualityJon_Right"
+		},
+		{
+			"offsets": [
+				35,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SuperUltraHD4kQualityJon_Down"
+		},
+		{
+			"offsets": [
+				-85,
+				215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SuperUltraHD4kQualityJon_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SuperUltraHD4kQualityJon_Ariser",
+	"position": [
+		100,
+		170
+	],
+	"healthicon": "jonpixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		45,
+		95
+	],
+	"camera_position": [
+		-270,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 5
+}

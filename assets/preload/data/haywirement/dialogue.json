@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "You little orange noodle, I was only decieving you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm the one that's supposed to decieve you, you know..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Shut it! I don't want to hear another WORD out of your stupid mo-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're assuming I can actually talk?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "OH MY GOSH JUST STOP ALREADY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garfield",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're the one not stopping to get your weird fantasy of you with Liz together real..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jon",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "OK, I HAD ENOUGH OF THAT!"
+		}
+	]
+}
