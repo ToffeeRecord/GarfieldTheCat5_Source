@@ -9,58 +9,69 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "SuperUltraHD4kQualityJon_Idle"
+			"name": "DemonJon_Idle"
 		},
 		{
 			"offsets": [
-				75,
-				-65
+				60,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "SuperUltraHD4kQualityJon_Left"
+			"name": "DemonJon_Left"
 		},
 		{
 			"offsets": [
-				-95,
-				-65
+				1,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "SuperUltraHD4kQualityJon_Right"
+			"name": "DemonJon_Right"
 		},
 		{
 			"offsets": [
-				35,
-				-25
+				-1,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SuperUltraHD4kQualityJon_Down"
+			"name": "DemonJon_Down"
 		},
 		{
 			"offsets": [
-				-85,
-				215
+				1,
+				130
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "SuperUltraHD4kQualityJon_Up"
+			"name": "DemonJon_Up"
+		},
+		{
+			"offsets": [
+				145,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yeet",
+			"indices": [],
+			"name": "DemonJon_Throw"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/SuperUltraHD4kQualityJon_Ariser",
 	"position": [
 		100,
-		170
+		210
 	],
 	"healthicon": "jonpixel",
 	"flip_x": true,
@@ -70,7 +81,7 @@
 		95
 	],
 	"camera_position": [
-		-270,
+		-100,
 		-190
 	],
 	"sing_duration": 4,

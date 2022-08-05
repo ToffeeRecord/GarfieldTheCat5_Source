@@ -2,104 +2,124 @@
 <TextureAtlas imagePath="SuperUltraHD4kQualityJon_Ariser.png">
 	<!-- Created with Adobe Animate version 21.0.9.42677 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0000" x="5" y="5" width="179" height="84" frameX="0" frameY="-69" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0001" x="189" y="5" width="166" height="92" frameX="-7" frameY="-61" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0002" x="360" y="5" width="152" height="100" frameX="-14" frameY="-53" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0003" x="517" y="5" width="139" height="108" frameX="-20" frameY="-45" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0004" x="661" y="5" width="126" height="115" frameX="-27" frameY="-38" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0005" x="792" y="5" width="112" height="123" frameX="-34" frameY="-30" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0006" x="909" y="5" width="99" height="131" frameX="-40" frameY="-22" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0007" x="1013" y="5" width="86" height="139" frameX="-46" frameY="-14" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0008" x="1104" y="5" width="73" height="145" frameX="-53" frameY="-8" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0009" x="1182" y="5" width="59" height="153" frameX="-60" frameY="0" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0010" x="1246" y="5" width="64" height="152" frameX="-57" frameY="-1" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0011" x="1315" y="5" width="69" height="151" frameX="-55" frameY="-2" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0012" x="1389" y="5" width="74" height="151" frameX="-52" frameY="-2" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0013" x="1468" y="5" width="79" height="150" frameX="-50" frameY="-3" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0014" x="1552" y="5" width="84" height="149" frameX="-47" frameY="-4" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0015" x="1641" y="5" width="89" height="148" frameX="-45" frameY="-5" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0016" x="1735" y="5" width="94" height="147" frameX="-42" frameY="-6" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0017" x="1834" y="5" width="99" height="146" frameX="-40" frameY="-7" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0018" x="1938" y="5" width="104" height="145" frameX="-37" frameY="-8" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Down0019" x="5" y="163" width="109" height="145" frameX="-35" frameY="-8" frameWidth="179" frameHeight="153"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0000" x="119" y="163" width="165" height="120" frameX="0" frameY="-38" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0001" x="289" y="163" width="157" height="125" frameX="-4" frameY="-33" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0002" x="451" y="163" width="149" height="129" frameX="-8" frameY="-29" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0003" x="605" y="163" width="141" height="133" frameX="-12" frameY="-25" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0004" x="751" y="163" width="133" height="138" frameX="-16" frameY="-20" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0005" x="889" y="163" width="125" height="142" frameX="-20" frameY="-16" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0006" x="1019" y="163" width="117" height="145" frameX="-24" frameY="-13" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0007" x="1141" y="163" width="109" height="150" frameX="-28" frameY="-8" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0008" x="1255" y="163" width="102" height="154" frameX="-31" frameY="-4" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0009" x="1362" y="163" width="94" height="158" frameX="-35" frameY="0" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0010" x="1461" y="163" width="96" height="157" frameX="-34" frameY="-1" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0011" x="1562" y="163" width="97" height="156" frameX="-34" frameY="-2" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0012" x="1664" y="163" width="99" height="154" frameX="-33" frameY="-4" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0013" x="1768" y="163" width="100" height="153" frameX="-32" frameY="-5" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0014" x="1873" y="163" width="102" height="151" frameX="-31" frameY="-7" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0015" x="5" y="326" width="103" height="150" frameX="-31" frameY="-8" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0016" x="113" y="326" width="105" height="149" frameX="-30" frameY="-9" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0017" x="223" y="326" width="106" height="147" frameX="-29" frameY="-11" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0018" x="334" y="326" width="108" height="146" frameX="-28" frameY="-12" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Idle0019" x="447" y="326" width="109" height="145" frameX="-28" frameY="-13" frameWidth="165" frameHeight="158"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0000" x="561" y="326" width="130" height="145" frameX="-26" frameY="0" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0001" x="696" y="326" width="127" height="145" frameX="-23" frameY="0" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0002" x="828" y="326" width="123" height="145" frameX="-20" frameY="0" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0003" x="956" y="326" width="120" height="145" frameX="-17" frameY="0" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0004" x="1081" y="326" width="117" height="145" frameX="-14" frameY="0" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0005" x="1203" y="326" width="115" height="145" frameX="-11" frameY="0" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0006" x="1323" y="326" width="113" height="144" frameX="-8" frameY="-1" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0007" x="1441" y="326" width="111" height="142" frameX="-5" frameY="-3" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0008" x="1557" y="326" width="108" height="140" frameX="-3" frameY="-5" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0009" x="1670" y="326" width="106" height="138" frameX="0" frameY="-7" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0010" x="1781" y="326" width="106" height="139" frameX="-1" frameY="-6" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0011" x="1892" y="326" width="107" height="140" frameX="-1" frameY="-5" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0012" x="5" y="481" width="106" height="140" frameX="-2" frameY="-5" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0013" x="116" y="481" width="107" height="141" frameX="-2" frameY="-4" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0014" x="228" y="481" width="108" height="142" frameX="-2" frameY="-3" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0015" x="341" y="481" width="107" height="143" frameX="-3" frameY="-2" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0016" x="453" y="481" width="108" height="143" frameX="-3" frameY="-2" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0017" x="566" y="481" width="108" height="144" frameX="-4" frameY="-1" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0018" x="679" y="481" width="108" height="145" frameX="-4" frameY="0" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Left0019" x="792" y="481" width="109" height="145" frameX="-4" frameY="0" frameWidth="156" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0000" x="906" y="481" width="123" height="145" frameX="0" frameY="0" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0001" x="1034" y="481" width="116" height="145" frameX="-7" frameY="0" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0002" x="1155" y="481" width="112" height="145" frameX="-13" frameY="0" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0003" x="1272" y="481" width="110" height="145" frameX="-20" frameY="0" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0004" x="1387" y="481" width="108" height="145" frameX="-27" frameY="0" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0005" x="1500" y="481" width="107" height="143" frameX="-33" frameY="-2" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0006" x="1612" y="481" width="106" height="142" frameX="-39" frameY="-3" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0007" x="1723" y="481" width="108" height="140" frameX="-42" frameY="-5" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0008" x="1836" y="481" width="111" height="138" frameX="-44" frameY="-7" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0009" x="5" y="631" width="113" height="135" frameX="-47" frameY="-10" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0010" x="123" y="631" width="113" height="136" frameX="-46" frameY="-9" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0011" x="241" y="631" width="112" height="137" frameX="-46" frameY="-8" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0012" x="358" y="631" width="112" height="138" frameX="-45" frameY="-7" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0013" x="475" y="631" width="112" height="139" frameX="-45" frameY="-6" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0014" x="592" y="631" width="112" height="140" frameX="-44" frameY="-5" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0015" x="709" y="631" width="111" height="141" frameX="-44" frameY="-4" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0016" x="825" y="631" width="111" height="142" frameX="-43" frameY="-3" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0017" x="941" y="631" width="110" height="144" frameX="-43" frameY="-1" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0018" x="1056" y="631" width="110" height="144" frameX="-42" frameY="-1" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Right0019" x="1171" y="631" width="109" height="145" frameX="-42" frameY="0" frameWidth="160" frameHeight="145"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0000" x="1285" y="631" width="81" height="201" frameX="-24" frameY="0" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0001" x="1371" y="631" width="85" height="191" frameX="-22" frameY="-10" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0002" x="1461" y="631" width="91" height="181" frameX="-19" frameY="-20" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0003" x="1557" y="631" width="97" height="171" frameX="-16" frameY="-30" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0004" x="1659" y="631" width="103" height="162" frameX="-13" frameY="-39" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0005" x="1767" y="631" width="109" height="152" frameX="-10" frameY="-49" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0006" x="1881" y="631" width="114" height="143" frameX="-8" frameY="-58" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0007" x="5" y="837" width="120" height="133" frameX="-5" frameY="-68" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0008" x="130" y="837" width="125" height="123" frameX="-3" frameY="-78" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0009" x="260" y="837" width="130" height="113" frameX="0" frameY="-88" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0010" x="395" y="837" width="128" height="116" frameX="-1" frameY="-85" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0011" x="528" y="837" width="126" height="119" frameX="-2" frameY="-82" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0012" x="659" y="837" width="124" height="123" frameX="-3" frameY="-78" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0013" x="788" y="837" width="122" height="126" frameX="-4" frameY="-75" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0014" x="915" y="837" width="120" height="129" frameX="-5" frameY="-72" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0015" x="1040" y="837" width="118" height="133" frameX="-6" frameY="-68" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0016" x="1163" y="837" width="116" height="136" frameX="-7" frameY="-65" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0017" x="1284" y="837" width="114" height="139" frameX="-8" frameY="-62" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0018" x="1403" y="837" width="112" height="142" frameX="-9" frameY="-59" frameWidth="130" frameHeight="201"/>
-	<SubTexture name="SuperUltraHD4kQualityJon_Up0019" x="1520" y="837" width="109" height="145" frameX="-10" frameY="-56" frameWidth="130" frameHeight="201"/>
+	<SubTexture name="DemonJon_Down0000" x="5" y="5" width="100" height="118" frameX="0" frameY="-27" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Down0001" x="5" y="5" width="100" height="118" frameX="0" frameY="-27" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Down0002" x="5" y="5" width="100" height="118" frameX="0" frameY="-27" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Down0003" x="110" y="5" width="100" height="136" frameX="0" frameY="-9" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Down0004" x="110" y="5" width="100" height="136" frameX="0" frameY="-9" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Down0005" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0006" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0007" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0008" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0009" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0010" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0011" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0012" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0013" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0014" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0015" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0016" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0017" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0018" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Down0019" x="215" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0000" x="320" y="5" width="100" height="116" frameX="0" frameY="-29" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Idle0001" x="320" y="5" width="100" height="116" frameX="0" frameY="-29" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Idle0002" x="320" y="5" width="100" height="116" frameX="0" frameY="-29" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Idle0003" x="425" y="5" width="100" height="128" frameX="0" frameY="-17" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Idle0004" x="425" y="5" width="100" height="128" frameX="0" frameY="-17" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Idle0005" x="530" y="5" width="100" height="138" frameX="0" frameY="-7" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Idle0006" x="530" y="5" width="100" height="138" frameX="0" frameY="-7" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Idle0007" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0008" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0009" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0010" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0011" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0012" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0013" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0014" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0015" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0016" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0017" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0018" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Idle0019" x="635" y="5" width="100" height="145"/>
+	<SubTexture name="DemonJon_Left0000" x="740" y="5" width="109" height="145" frameX="-3" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0001" x="740" y="5" width="109" height="145" frameX="-3" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0002" x="740" y="5" width="109" height="145" frameX="-3" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0003" x="854" y="5" width="106" height="145" frameX="-2" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0004" x="854" y="5" width="106" height="145" frameX="-2" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0005" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0006" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0007" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0008" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0009" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0010" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0011" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0012" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0013" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0014" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0015" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0016" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0017" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0018" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Left0019" x="965" y="5" width="100" height="145" frameX="0" frameY="0" frameWidth="112" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0000" x="1070" y="5" width="104" height="145" frameX="0" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0001" x="1070" y="5" width="104" height="145" frameX="0" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0002" x="1070" y="5" width="104" height="145" frameX="0" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0003" x="1179" y="5" width="102" height="145" frameX="-14" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0004" x="1179" y="5" width="102" height="145" frameX="-14" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0005" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0006" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0007" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0008" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0009" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0010" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0011" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0012" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0013" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0014" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0015" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0016" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0017" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0018" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Right0019" x="1286" y="5" width="100" height="145" frameX="-23" frameY="0" frameWidth="123" frameHeight="145"/>
+	<SubTexture name="DemonJon_Throw0000" x="1391" y="5" width="121" height="145" frameX="-290" frameY="-46" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0001" x="1517" y="5" width="266" height="145" frameX="-87" frameY="-46" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0002" x="5" y="155" width="365" height="145" frameX="0" frameY="-46" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0003" x="375" y="155" width="297" height="156" frameX="-68" frameY="-35" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0004" x="677" y="155" width="289" height="173" frameX="-86" frameY="-18" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0005" x="971" y="155" width="282" height="164" frameX="-93" frameY="-27" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0006" x="1258" y="155" width="278" height="190" frameX="-104" frameY="-1" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0007" x="1541" y="155" width="256" height="191" frameX="-126" frameY="0" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0008" x="5" y="351" width="278" height="178" frameX="-104" frameY="-13" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0009" x="288" y="351" width="282" height="145" frameX="-100" frameY="-46" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0010" x="575" y="351" width="279" height="145" frameX="-103" frameY="-46" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0011" x="859" y="351" width="256" height="145" frameX="-126" frameY="-46" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0012" x="1120" y="351" width="271" height="171" frameX="-111" frameY="-46" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0013" x="1396" y="351" width="282" height="191" frameX="-100" frameY="-46" frameWidth="411" frameHeight="313"/>
+	<SubTexture name="DemonJon_Throw0014" x="635" y="5" width="100" height="145" frameX="-104" frameY="-46" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Throw0015" x="635" y="5" width="100" height="145" frameX="-126" frameY="-46" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Throw0016" x="635" y="5" width="100" height="145" frameX="-104" frameY="-46" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Throw0017" x="635" y="5" width="100" height="145" frameX="-100" frameY="-46" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Throw0018" x="635" y="5" width="100" height="145" frameX="-103" frameY="-46" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Throw0019" x="635" y="5" width="100" height="145" frameX="-126" frameY="-46" frameWidth="100" frameHeight="145"/>
+	<SubTexture name="DemonJon_Up0000" x="1683" y="351" width="100" height="171"/>
+	<SubTexture name="DemonJon_Up0001" x="1683" y="351" width="100" height="171"/>
+	<SubTexture name="DemonJon_Up0002" x="1683" y="351" width="100" height="171"/>
+	<SubTexture name="DemonJon_Up0003" x="1788" y="351" width="100" height="154" frameX="0" frameY="-17" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0004" x="1788" y="351" width="100" height="154" frameX="0" frameY="-17" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0005" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0006" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0007" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0008" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0009" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0010" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0011" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0012" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0013" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0014" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0015" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0016" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0017" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0018" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
+	<SubTexture name="DemonJon_Up0019" x="1893" y="351" width="100" height="145" frameX="0" frameY="-26" frameWidth="100" frameHeight="171"/>
 </TextureAtlas>

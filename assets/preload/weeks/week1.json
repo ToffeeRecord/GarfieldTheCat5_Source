@@ -1,39 +1,57 @@
 {
-	"songs": [
-		[
-			"Improbable-Outset",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Madness",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
+	"storyName": "Time for a Bath",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"storyName": "Time for a Bath",
-	"weekName": "Week 1",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"startUnlocked": true,
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Advisiture",
+			"jon",
+			[
+				0,
+				120,
+				233
+			]
+		],
+		[
+			"Haywirement",
+			"jonMad",
+			[
+				0,
+				120,
+				233
+			]
+		],
+		[
+			"The Ariser",
+			"jonDemon",
+			[
+				20,
+				40,
+				53
+			]
+		],
+		[
+			"Endgame Road",
+			"jonTrue",
+			[
+				20,
+				40,
+				53
+			]
+		]
+	],
+	"weekName": "Week 1"
 }

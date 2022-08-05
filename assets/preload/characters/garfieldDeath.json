@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				297,
+				91
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "garfield is dead lol",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				297,
+				30
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "garfield ded loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				297,
+				639
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "garfield ded confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Garfield_Death_Assets",
+	"position": [
+		-100,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		190,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

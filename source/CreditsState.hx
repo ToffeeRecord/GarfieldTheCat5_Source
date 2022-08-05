@@ -25,7 +25,7 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
 		['Garfield the Cat 5 Team'],
-		['ToffeeRecord', 'toffee', 'Everything Else + Creator of the original\nshitty games', 'https://www.youtube.com/channel/UCkpiVBLIBvsb1ZKlPUEfRIQ', 0xffb30000],
+		['ToffeeRecord', 'toffee', 'Creator, Artist, Animator, Musician, Charter', 'https://www.youtube.com/channel/UCkpiVBLIBvsb1ZKlPUEfRIQ',  0xffb30000],
 		[''],
 		['Original Creators'],
 		['Jim Davis',      'garfield',  'Original Creator of Garfield',         'https://en.wikipedia.org/wiki/Jim_Davis_(cartoonist)',         0xffee6c02],
@@ -42,7 +42,6 @@ class CreditsState extends MusicBeatState
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
-		['Yes, I am aware I am using an\nolder version of Psych Engine,\nThis project has been in the backburner\nfor too long I had to finish it.'],
 		[''],
 		['Engine Contributors'],
 		['shubs',				'shubs',			'New Input System Programmer',						'https://twitter.com/yoshubs',			0xFF4494E6],

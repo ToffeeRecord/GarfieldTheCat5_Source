@@ -1,0 +1,48 @@
+{
+	"storyName": "This cat's UNHINGED!",
+	"hideFreeplay": false,
+	"weekBackground": "spooky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Grayland Rival",
+			"nermal",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Hammertimer",
+			"nermal",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Megaloslamiac",
+			"nermal",
+			[
+				195,
+				195,
+				195
+			]
+		]
+	],
+	"weekName": "Week 2"
+}

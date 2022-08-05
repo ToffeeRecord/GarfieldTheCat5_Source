@@ -12,7 +12,7 @@ import flixel.tweens.FlxTween;
 
 class GameOverSubstate extends MusicBeatSubstate
 {
-	var bf:Boyfriend;
+	public static var bf:Boyfriend;
 	var camFollow:FlxPoint;
 	var camFollowPos:FlxObject;
 	var updateCamera:Bool = false;
@@ -21,13 +21,13 @@ class GameOverSubstate extends MusicBeatSubstate
 
 	var lePlayState:PlayState;
 
-	public static var characterName:String = 'bf';
+	public static var characterName:String = 'garfieldDeath';
 	public static var deathSoundName:String = 'fnf_loss_sfx';
 	public static var loopSoundName:String = 'gameOver';
 	public static var endSoundName:String = 'gameOverEnd';
 
 	public static function resetVariables() {
-		characterName = 'bf';
+		characterName = 'garfieldDeath';
 		deathSoundName = 'fnf_loss_sfx';
 		loopSoundName = 'gameOver';
 		endSoundName = 'gameOverEnd';
@@ -56,10 +56,6 @@ class GameOverSubstate extends MusicBeatSubstate
 		bf.playAnim('firstDeath');
 
 		var exclude:Array<Int> = [];
-
-		camFollowPos = new FlxObject(0, 0, 1, 1);
-		camFollowPos.setPosition(FlxG.camera.scroll.x + (FlxG.camera.width / 2), FlxG.camera.scroll.y + (FlxG.camera.height / 2));
-		add(camFollowPos);
 	}
 
 	override function update(elapsed:Float)
@@ -67,10 +63,6 @@ class GameOverSubstate extends MusicBeatSubstate
 		super.update(elapsed);
 
 		lePlayState.callOnLuas('onUpdate', [elapsed]);
-		if(updateCamera) {
-			var lerpVal:Float = CoolUtil.boundTo(elapsed * 0.6, 0, 1);
-			camFollowPos.setPosition(FlxMath.lerp(camFollowPos.x, camFollow.x, lerpVal), FlxMath.lerp(camFollowPos.y, camFollow.y, lerpVal));
-		}
 
 		if (controls.ACCEPT)
 		{
