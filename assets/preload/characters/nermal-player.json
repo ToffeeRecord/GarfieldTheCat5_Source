@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nermal_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nermal_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nermal_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nermal_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nermal_Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nermal_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nermal",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		195,
+		195
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

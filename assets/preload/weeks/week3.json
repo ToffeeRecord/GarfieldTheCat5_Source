@@ -1,0 +1,48 @@
+{
+	"storyName": "Getting Weird with This Mod",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Red Vox",
+			"vine",
+			[
+				0,
+				125,
+				0
+			]
+		],
+		[
+			"Pizza Pasta",
+			"vine",
+			[
+				0,
+				125,
+				0
+			]
+		],
+		[
+			"Die Garfield",
+			"vine",
+			[
+				0,
+				125,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

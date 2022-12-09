@@ -387,7 +387,18 @@ class PlayState extends MusicBeatState
 			case 'nermal':
 				var bg:BGSprite = new BGSprite('NermalBG', -600, -200, 0.9, 0.9);
 				add(bg);
+
+			case 'vinyot':
+				var bg:BGSprite = new BGSprite('VinyotBG', -600, -200, 0.9, 0.9);
+				add(bg);
 			
+			case 'png':
+				var bg:BGSprite = new BGSprite('theGarfieldPNGbg', -600, -200, 0.9, 0.9);
+				add(bg);
+
+			case 'hedgecat':
+				var bg:BGSprite = new BGSprite('HedgecatBG', -600, -200, 0.9, 0.9);
+				add(bg);
 		}
 
 		if(isPixelStage) {
@@ -715,6 +726,8 @@ class PlayState extends MusicBeatState
 					startVideo('AriserCutscene');
 				case 'endgame-road':
 					startVideo('EndgameCutscene');
+				case 'red-vox':
+					startVideo('VinesauceCutscene');
 				default:
 					startCountdown();
 			}

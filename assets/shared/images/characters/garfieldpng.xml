@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="garfieldpng.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="5" y="5" width="860" height="873"/>
+	<SubTexture name="idle0000" x="870" y="5" width="719" height="968"/>
+	<SubTexture name="left0000" x="1594" y="5" width="597" height="885"/>
+	<SubTexture name="right0000" x="2196" y="5" width="798" height="1025"/>
+	<SubTexture name="up0000" x="2999" y="5" width="860" height="946"/>
+</TextureAtlas>

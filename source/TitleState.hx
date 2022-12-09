@@ -78,7 +78,7 @@ class TitleState extends MusicBeatState
 		PlayerSettings.init();
 
 		curWacky = FlxG.random.getObject(getIntroTextShit());
-
+		
 		// DEBUG BULLSHIT
 
 		swagShader = new ColorSwap();
@@ -437,9 +437,9 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = 'In association \nwith';
 				// credTextShit.screenCenter();
 				case 5:
-					createCoolText(['This is a mod to'], -60);
+					createCoolText(['why would you check out'], -60);
 				case 7:
-					addMoreText('This game right below lol', -60);
+					addMoreText('this hunk of garbage huh?', -60);
 					logoSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
 				case 8:

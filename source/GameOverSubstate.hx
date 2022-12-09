@@ -23,13 +23,11 @@ class GameOverSubstate extends MusicBeatSubstate
 
 	public static var characterName:String = 'garfieldDeath';
 	public static var deathSoundName:String = 'fnf_loss_sfx';
-	public static var loopSoundName:String = 'gameOver';
 	public static var endSoundName:String = 'gameOverEnd';
 
 	public static function resetVariables() {
 		characterName = 'garfieldDeath';
 		deathSoundName = 'fnf_loss_sfx';
-		loopSoundName = 'gameOver';
 		endSoundName = 'gameOverEnd';
 	}
 
@@ -94,7 +92,6 @@ class GameOverSubstate extends MusicBeatSubstate
 
 			if (bf.animation.curAnim.finished)
 			{
-				coolStartDeath();
 				bf.startedDeath = true;
 			}
 		}
@@ -114,12 +111,6 @@ class GameOverSubstate extends MusicBeatSubstate
 	}
 
 	var isEnding:Bool = false;
-
-	function coolStartDeath(?volume:Float = 1):Void
-	{
-		FlxG.sound.playMusic(Paths.music(loopSoundName), volume);
-	}
-
 	function endBullshit():Void
 	{
 		if (!isEnding)

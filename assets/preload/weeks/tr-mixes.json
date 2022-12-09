@@ -1,0 +1,48 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Nermal TR Mix",
+			"nermal",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"XD TR Mix",
+			"nermal",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"Abuse TR Mix",
+			"garfield",
+			[
+				255,
+				115,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

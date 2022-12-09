@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hedgecat_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hedgecat_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hedgecat_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hedgecat_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hedgecat_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hedgecat_Assets",
+	"position": [
+		-90,
+		180
+	],
+	"healthicon": "hedgecat",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		156,
+		0
+	],
+	"camera_position": [
+		-30,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Nermal_Idle",
-			"indices": []
+			"indices": [],
+			"name": "Nermal_Idle"
 		},
 		{
-			"loop": false,
-			"offsets": [
-				94,
-				0
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Nermal_Left",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				-14,
 				-37
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Nermal_Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nermal_Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				86,
 				20
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Nermal_Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nermal_Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-12,
+				95,
 				0
 			],
-			"anim": "singRIGHT",
+			"indices": [],
 			"fps": 24,
-			"name": "Nermal_Right",
-			"indices": []
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Nermal_Left"
 		},
 		{
+			"offsets": [
+				-13,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
 			"loop": false,
+			"name": "Nermal_Right"
+		},
+		{
 			"offsets": [
 				31,
-				21
+				22
 			],
-			"anim": "yeet",
+			"indices": [],
 			"fps": 24,
-			"name": "Nermal_THROW",
-			"indices": []
+			"anim": "yeet",
+			"loop": false,
+			"name": "Nermal_THROW"
 		}
 	],
 	"no_antialiasing": false,

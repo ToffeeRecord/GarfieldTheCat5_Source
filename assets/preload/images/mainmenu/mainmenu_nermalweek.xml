@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mainmenu_nermalweek.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nermal week nermal0000" x="5" y="5" width="425" height="152"/>
+	<SubTexture name="nermal week white0000" x="5" y="162" width="443" height="183"/>
+</TextureAtlas>

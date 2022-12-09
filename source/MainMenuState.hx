@@ -58,6 +58,7 @@ class MainMenuState extends MusicBeatState
 
 		var yScroll:Float = Math.max(0.25 - (0.05 * (optionShit.length - 4)), 0.1);
 		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('menuBG'));
+		// var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('mainMenuBG'));
 		bg.scrollFactor.set(0, yScroll);
 		bg.setGraphicSize(Std.int(bg.width * 1.175));
 		bg.updateHitbox();
@@ -84,6 +85,52 @@ class MainMenuState extends MusicBeatState
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
 
+		/*
+		var jonWeek:FlxSprite = new FlxSprite(-500, 200);
+		jonWeek.frames = Paths.getSparrowAtlas('mainmenu/mainmenu_jonweek');
+		jonWeek.animation.addByPrefix('idle', "jon week normal", 24);
+		jonWeek.animation.addByPrefix('selected', "jon week white", 24);
+		jonWeek.animation.play('idle');
+		menuItems.add(jonWeek);
+
+		var nermalWeek:FlxSprite = new FlxSprite(500, 200);
+		nermalWeek.frames = Paths.getSparrowAtlas('mainmenu/mainmenu_nermalweek');
+		nermalWeek.animation.addByPrefix('idle', "nermal week nermal", 24);
+		nermalWeek.animation.addByPrefix('selected', "nermal week white", 24);
+		nermalWeek.animation.play('idle');
+		menuItems.add(nermalWeek);
+
+		var vinnyWeek:FlxSprite = new FlxSprite(-500, 500);
+		vinnyWeek.frames = Paths.getSparrowAtlas('mainmenu/mainmenu_vinnyweek');
+		vinnyWeek.animation.addByPrefix('idle', "vinny week normal", 24);
+		vinnyWeek.animation.addByPrefix('selected', "vinny week white", 24);
+		vinnyWeek.animation.play('idle');
+		menuItems.add(vinnyWeek);
+
+		var freeplay:FlxSprite = new FlxSprite(500, 500);
+		freeplay.frames = Paths.getSparrowAtlas('mainmenu/mainmenu_freeplay');
+		freeplay.animation.addByPrefix('idle', "freeplay normal", 24);
+		freeplay.animation.addByPrefix('selected', "freeplay white", 24);
+		freeplay.animation.play('idle');
+		menuItems.add(freeplay);
+
+		var options:FlxSprite = new FlxSprite(-20, FlxG.height - 24);
+		options.frames = Paths.getSparrowAtlas('mainmenu/mainmenu_options');
+		options.animation.addByPrefix('idle', "options normal", 24);
+		options.animation.addByPrefix('selected', "options white", 24);
+		options.animation.play('idle');
+		menuItems.add(options);
+
+		var credits:FlxSprite = new FlxSprite(20, FlxG.height - 24);
+		credits.frames = Paths.getSparrowAtlas('mainmenu/mainmenu_credits');
+		credits.animation.addByPrefix('idle', "credits normal", 24);
+		credits.animation.addByPrefix('selected', "credits white", 24);
+		credits.animation.play('idle');
+		menuItems.add(credits);
+
+		idk if i will add this at all since i always fear that one slip-up and the entire thing goes down...
+		*/
+
 		for (i in 0...optionShit.length)
 		{
 			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
@@ -105,7 +152,7 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-		var versionShit:FlxText = new FlxText(12, FlxG.height - 64, 0, "Garfield the Cat 5 v2.0", 12);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 64, 0, "Garfield the Cat 5 v3.0", 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("Schluber", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
@@ -162,41 +209,18 @@ class MainMenuState extends MusicBeatState
 			{
 				selectedSomethin = true;
 				FlxG.sound.play(Paths.sound('confirmMenu'));
-
-				if(ClientPrefs.flashing) FlxFlicker.flicker(magenta, 1.1, 0.15, false);
-
-				menuItems.forEach(function(spr:FlxSprite)
+				var daChoice:String = optionShit[curSelected];
+				switch (daChoice)
 				{
-					if (curSelected != spr.ID)
-					{
-						FlxTween.tween(spr, {alpha: 0}, 0.4, {
-							ease: FlxEase.quadOut,
-							onComplete: function(twn:FlxTween)
-							{
-								spr.kill();
-							}
-						});
-					}
-					else
-					{
-						FlxFlicker.flicker(spr, 1, 0.06, false, false, function(flick:FlxFlicker)
-						{
-							var daChoice:String = optionShit[curSelected];
-
-							switch (daChoice)
-							{
-								case 'story_mode':
-									MusicBeatState.switchState(new StoryMenuState());
-								case 'freeplay':
-									MusicBeatState.switchState(new FreeplayState());
-								case 'credits':
-									MusicBeatState.switchState(new CreditsState());
-								case 'options':
-									MusicBeatState.switchState(new OptionsState());
-							}
-						});
-					}
-				});
+					case 'story_mode':
+						MusicBeatState.switchState(new StoryMenuState());
+					case 'freeplay':
+						MusicBeatState.switchState(new FreeplayState());
+					case 'credits':
+						MusicBeatState.switchState(new CreditsState());
+					case 'options':
+						MusicBeatState.switchState(new OptionsState());
+				}
 			}
 			#if desktop
 			else if (FlxG.keys.justPressed.SEVEN)

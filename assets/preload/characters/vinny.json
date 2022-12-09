@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Vinesauce_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Vinesauce_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-175
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Vinesauce_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Vinesauce_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-28
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Vinesauce_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VinnyVinesauce_Assets",
+	"position": [
+		50,
+		-150
+	],
+	"healthicon": "vine",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		125,
+		0
+	],
+	"camera_position": [
+		-120,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Garfield_ManImDead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Garfield_Ending_Assets",
+	"position": [
+		-80,
+		350
+	],
+	"healthicon": "garfield",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		116,
+		0
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
